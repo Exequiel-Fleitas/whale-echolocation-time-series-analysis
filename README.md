@@ -14,7 +14,3 @@ This project analyzes whale echolocation signals using time series and signal pr
 - astsa
 - ggplot2
 
-## Key Findings
-- Significant temporal dependence detected.
-- Dominant frequency components identified.
-- Low-frequency structure captured through filtering.
